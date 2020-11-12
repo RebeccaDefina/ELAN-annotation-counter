@@ -1,6 +1,6 @@
 This script was written by Brahn Partridge
 
-It searches a directory containing ELAN files for annotations of a specific LINGUISTIC_TYPE_REF and outputs a csv file containing the total number of annotations as well as the number of non-empty annotations of that type per participant per file.
+It searches a directory containing ELAN files for annotations of a specific tier type (LINGUISTIC_TYPE_REF) and outputs a csv file containing the total number of annotations as well as the number of non-empty annotations of that type per participant per file.
 
 For instance a section of the output looks like this
 "Filename","Participant","NumberOfAnnotations","NumberOfNonEmptyAnnotations"
